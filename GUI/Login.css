@@ -1,0 +1,16 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Dec 19, 2022, 11:50:45 AM
+    Author     : LEGION
+*/
+
+.root
+{
+    
+   
+   -fx-background-size:2000 ;
+    -fx-background-image: url("lg1.jpg");
+}
